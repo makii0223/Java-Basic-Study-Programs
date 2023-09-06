@@ -1,3 +1,7 @@
+// Here is the code related to the do-while loop for menu selection
+// #Java Basic Code Command
+// Mayank Singh 
+// Connect with me you using Github @makii0223, Discord @makii0223
 public class menu_selection 
 {
     public static void main(String args[])
